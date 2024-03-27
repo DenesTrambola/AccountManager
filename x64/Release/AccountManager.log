@@ -1,0 +1,16 @@
+﻿  algorithms.cpp
+D:\IT Step\C++\AccountManager\algorithms.cpp(157,36): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(161,32): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(319,36): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(323,32): warning C4101: 'error': unreferenced local variable
+  main.cpp
+  tools.cpp
+  ui.cpp
+D:\IT Step\C++\AccountManager\ui.cpp(17,2): warning C4091: 'extern ': ignored on left of 'Account' when no variable is declared
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\IT Step\C++\AccountManager\algorithms.cpp(331): warning C4715: 'chooseAndDeleteAccount': not all control paths return a value
+D:\IT Step\C++\AccountManager\algorithms.cpp(169): warning C4715: 'chooseAndEditAccount': not all control paths return a value
+  All 995 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AccountManager.vcxproj -> D:\IT Step\C++\HelloWorld\x64\Release\AccountManager.exe

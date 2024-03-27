@@ -1,0 +1,8 @@
+﻿  algorithms.cpp
+D:\IT Step\C++\AccountManager\algorithms.cpp(157,36): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(161,32): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(319,36): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(323,32): warning C4101: 'error': unreferenced local variable
+D:\IT Step\C++\AccountManager\algorithms.cpp(169,1): warning C4715: 'chooseAndEditAccount': not all control paths return a value
+D:\IT Step\C++\AccountManager\algorithms.cpp(331,1): warning C4715: 'chooseAndDeleteAccount': not all control paths return a value
+  AccountManager.vcxproj -> D:\IT Step\C++\HelloWorld\x64\Debug\AccountManager.exe

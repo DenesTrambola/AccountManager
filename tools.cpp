@@ -1,0 +1,10 @@
+const char* GREEN = "\u001b[92m";
+const char* YELLOW = "\033[33m";
+const char* RED = "\u001b[91m";
+const char* CYAN = "\u001b[96m";
+const char* WHITE = "\033[97m";
+const char* RESET = "\033[0m";
+const char* BOLD = "\u001b[1m";
+const char* BOLD_RESET = "\u001b[0m";
+const char* BG = "\x1b[107m";
+const char* BG_RESET = "\x1b[49m";
